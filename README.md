@@ -8,22 +8,22 @@ This GitHub is where we put small tools and scripts we write for our own servers
 
 ### What we run
 
-| Product | From (per month) | |
-|---|---|---|
-| cPanel web hosting | ₹89 | [cpanel-hosting](https://bigdomainhost.com/cpanel-hosting.html) |
-| Managed WordPress | ₹169 | [wordpress-hosting](https://bigdomainhost.com/wordpress-hosting.html) |
-| Cloud hosting | ₹249 | [cloud-hosting](https://bigdomainhost.com/cloud-hosting.html) |
-| Reseller (WHM) | ₹819 | [reseller-hosting](https://bigdomainhost.com/reseller-hosting.html) |
-| KVM VPS, Mumbai and Delhi | ₹674 | [vps-hosting](https://bigdomainhost.com/vps-hosting.html) |
-| VDS (dedicated vCPU cores) | quoted | [vds-hosting](https://bigdomainhost.com/vds-hosting.html) |
-| Windows hosting (ASP.NET, MSSQL) | ₹1,899 | [windows-hosting](https://bigdomainhost.com/windows-hosting.html) |
-| Dedicated servers | ₹14,499 | [dedicated-servers](https://bigdomainhost.com/dedicated-servers.html) |
-| Domains, business email, GPU servers | quoted | [pricing](https://bigdomainhost.com/pricing.html) |
+| Product | |
+|---|---|
+| Web & cPanel hosting | [cpanel-hosting](https://bigdomainhost.com/cpanel-hosting.html) |
+| WordPress hosting | [wordpress-hosting](https://bigdomainhost.com/wordpress-hosting.html) |
+| Reseller hosting (WHM) | [reseller-hosting](https://bigdomainhost.com/reseller-hosting.html) |
+| KVM VPS, Mumbai and Delhi NCR | [vps-hosting](https://bigdomainhost.com/vps-hosting.html) |
+| VDS (dedicated vCPU cores) | [vds-hosting](https://bigdomainhost.com/vds-hosting.html) |
+| Dedicated servers | [dedicated-servers](https://bigdomainhost.com/dedicated-servers.html) |
+| GPU servers | [gpu-server-hosting](https://bigdomainhost.com/gpu-server-hosting.html) |
 
-Also Tally on Cloud, Minecraft servers and fixed-quote web development. The full list is on the [pricing page](https://bigdomainhost.com/pricing.html). Hosting renews at the rate you signed up on. Setup guides live in the [docs](https://bigdomainhost.com/docs.html).
+Also Tally on Cloud, Minecraft servers and fixed-quote web development. Current prices for every plan are on the [pricing page](https://bigdomainhost.com/pricing.html); hosting renews at the rate you signed up on. Orders and the client area are at [cloud.bigdomainhost.com](https://cloud.bigdomainhost.com). Setup guides live in the [docs](https://bigdomainhost.com/docs.html).
 
 ### Guides we've written
 
+- [Best VPS hosting in India: an honest comparison](https://bigdomainhost.com/guide-best-vps-hosting-india.html)
+- [Best web hosting in India: cPanel, WordPress and reseller compared](https://bigdomainhost.com/guide-best-web-hosting-india.html)
 - [VPS vs shared hosting: which one do you actually need?](https://bigdomainhost.com/guide-vps-vs-shared-hosting.html)
 - [How much RAM does a VPS need?](https://bigdomainhost.com/guide-how-much-ram-does-a-vps-need.html)
 - [Moving a website to a new host without downtime](https://bigdomainhost.com/guide-migrate-website-to-new-host.html)
