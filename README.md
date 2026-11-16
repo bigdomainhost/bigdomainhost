@@ -1,6 +1,6 @@
 ## Bigdomainhost
 
-We're a small Indian hosting company, run by Parth Sharma since 2024. We sell KVM VPS, cPanel hosting, reseller plans and dedicated servers out of two Tier III data centres inside India: Mumbai (BOM-1) and Delhi NCR (DEL-1). Users in the south are served from Mumbai, which sits at 28–40 ms from Bangalore. We don't have regions outside India, so if most of your visitors are abroad we're probably not the right host for you.
+We're a small Indian hosting company, run by Parth Sharma since September 2026. We sell KVM VPS, cPanel hosting, reseller plans and dedicated servers out of two Tier III data centres inside India: Mumbai (BOM-1) and Delhi NCR (DEL-1). Users in the south are served from Mumbai, which sits at 28–40 ms from Bangalore. We don't have regions outside India, so if most of your visitors are abroad we're probably not the right host for you.
 
 Website: **[bigdomainhost.com](https://bigdomainhost.com/)**
 
