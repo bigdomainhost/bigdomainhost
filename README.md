@@ -6,6 +6,8 @@ Website: **[bigdomainhost.com](https://bigdomainhost.com/)**
 
 This GitHub is where we put small tools and scripts we write for our own servers and think other people could use. Start with [vps-first-boot](https://github.com/bigdomainhost/vps-first-boot), a script we wrote to harden a fresh Ubuntu or Debian VPS on day one.
 
+For quick reference, [linux-server-cheatsheets](https://github.com/bigdomainhost/linux-server-cheatsheets) has one-page cheat sheets for SSH, ports, SFTP, npm, HTTP and Chrome errors, and the first boot of a new VPS.
+
 ### What we run
 
 | Product | |
